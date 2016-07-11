@@ -1,5 +1,5 @@
 {
-  "name": "BearHanded",
+  "name": "bearhanded",
   "version": "0.0.1",
   "description": "BearHanded lets you quicky create the skeleton of a fast and versatile API, with the groundwork in place to allow for modular, scalable design.",
   "main": "index.js",
