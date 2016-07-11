@@ -1,0 +1,24 @@
+{
+  "name": "BearHanded",
+  "version": "0.0.1",
+  "description": "BearHanded lets you quicky create the skeleton of a fast and versatile API, with the groundwork in place to allow for modular, scalable design.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewdotpro/bearhanded.git"
+  },
+  "keywords": [
+    "BearHanded",
+    "Express",
+    "Skeleton"
+  ],
+  "author": "Drew Llewellyn <drew@drew.pro> (http://drew.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drewdotpro/bearhanded/issues"
+  },
+  "homepage": "https://github.com/drewdotpro/bearhanded#readme"
+}
